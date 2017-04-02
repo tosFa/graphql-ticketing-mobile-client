@@ -2,14 +2,16 @@
 Ticketing web client app
 
 ## This is a graphql web-client created for purposes of the "Fly me to the moon" talk I held on a few meetups and conferences
-## This repo is dependent on the `https://github.com/tosFa/graphql-ticketing-backend-service` 
+## This repo is dependent on 
+https://github.com/tosFa/graphql-ticketing-backend-service 
 
 # Prerequisites
 `node v7`
 
 # Installation
 
-### Clone and follow instructions at `https://github.com/tosFa/graphql-ticketing-backend-service`
+### Clone and follow instructions at
+https://github.com/tosFa/graphql-ticketing-backend-service
 
 ### If you already don't have yarn installed
 `npm i --g yarn`
@@ -18,7 +20,7 @@ Ticketing web client app
 `yarn`
 
 ### Setup react-native
-`https://facebook.github.io/react-native/docs/getting-started.html`
+https://facebook.github.io/react-native/docs/getting-started.html
 
 # Start
 
