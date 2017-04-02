@@ -1,6 +1,5 @@
 import React, { Component } from 'react';
 import { ApolloProvider } from 'react-apollo';
-import { Provider, connect } from 'react-redux';
 import { ThemeProvider } from 'styled-components';
 import Init from './screens/init';
 
